@@ -48,3 +48,6 @@ D.  how to develop a github project Readme file.
 Here, we use skillharvest_stationary_supplies.csv to demonstrate the use case of some power query functions. Below is an excerpt from the datasheet.
 
 ## <p align="center"/>EXCERPT FROM THE DATASHEET</p>
+#  <div align="center">
+   <file src="skillharvastlearning/skillharvest_stationary_supplies.csv>
+   </div>
