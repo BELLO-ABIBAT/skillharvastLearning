@@ -49,5 +49,5 @@ Here, we use skillharvest_stationary_supplies.csv to demonstrate the use case of
 
 ## <p align="center"/>EXCERPT FROM THE DATASHEET</p>
 #  <div align="center">
-   <file src="BELLO/Skillharvest_Stationary_Supplies.csv">
+   <img src="skillharvastlearning/Data analysis.PNG">
    </div>
