@@ -121,3 +121,6 @@ PowerQuery
    <img src="BELLO/Dataanalysis6.PNG">
    </div>
 
+#   4.0   INTRODUCTION TO POWERBI
+
+
