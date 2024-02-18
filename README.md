@@ -69,41 +69,55 @@ PowerQuery
 #  <div align="center">
    <img src="BELLO/Dataanalysis1.PNG">
    </div>
-    
+
+##   <p align="center">TASK TWO</p>
+
 ```
 PowerQuery
 =QUERY(A1:H44,"SELECT C,H WHERE (C='Pencil' OR C= 'Binder') AND F=2015",1)
 ```
 #  <div align="center">
-   <img src="BELLO/Dataanalysis2.2.PNG">
+   <img src="BELLO/Dataanalysis2.2.png">
    </div>
+
+##   <p align="center">TASK THREE</p>
    
 ```
 PowerQuery
 =QUERY(A1:H44,"SELECT E,H WHERE (E='Aug' OR E='Sep') AND F=2014",1)
 ```
 #  <div align="center">
-   <img src="BELLO/Dataanalysis1.PNG">
+   <img src="BELLO/Dataanalysis3.3.png">
    </div>
+   
+##   <p align="center">TASK FOUR</p>
+ 
 ```
 PowerQuery
   =QUERY(A1:H44,"SELECT E,H WHERE (E='Aug' OR E='Sep') AND F=2014",1) 
 ```
 #  <div align="center">
-   <img src="BELLO/Dataanalysis1.PNG">
+   <img src="BELLO/Dataanalysis4.png">
    </div>
+   
+##   <p align="center">TASK FIVE</p>
+ 
 ```
 PowerQuery
 =QUERY(A1:H44,"SELECT A,B,C,F WHERE C LIKE 'Pen%'",1)
 ```
 #  <div align="center">
-   <img src="BELLO/Dataanalysis1.PNG">
+   <img src="BELLO/Dataanalysis5.PNG">
    </div>
+
+##   <p align="center">TASK SIX</p>
+   
 ```
 PowerQuery
 =QUERY(A1:H44,"SELECT A,B,C,H,F WHERE C LIKE '%sk'",1)
 ```
+
 #  <div align="center">
-   <img src="BELLO/Dataanalysis1.PNG">
+   <img src="BELLO/Dataanalysis6.PNG">
    </div>
 
