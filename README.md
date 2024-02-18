@@ -51,3 +51,33 @@ Here, we use skillharvest_stationary_supplies.csv to demonstrate the use case of
 #  <div align="center">
    <img src="BELLO/Dataanalysis.PNG">
    </div>
+
+###   3.1   <p align="center">POWER QUERY EXERCISE</p>
+1.   Show sales Rep whose Items are Pen Set and Binders.
+2.   Show sales of binder items and pencil in 2015.
+3.   Show sales in Central and East region in 2014.
+4.   Show sales in August and September 2014.
+5.   Show sales of items that start with Pen, include their region, sales rep and year.
+6.   Show sales of items that end with ‘sk’, include their region, sales rep and year.
+
+##   <p align="center">TASK ONE</p>
+
+```
+PowerQuery
+   =QUERY(A1:H44,"SELECT B,C WHERE C='Pen' OR C='Binder'",1)
+```
+
+```
+PowerQuery
+   =QUERY(A1:H44,"SELECT C,H WHERE (C='Binder' OR C='Pencil') AND F='2015'",1)
+```
+
+```
+PowerQuery
+   =QUERY(A1:H44,"SELECT A,H WHERE (A='Central' OR A='East') AND F='2014'",1)
+```
+
+PowerQuery
+   =QUERY(A1:H44,"SELECT E,H WHERE (E='Aug' OR E='Sep') AND F='2014'",1)
+```
+
