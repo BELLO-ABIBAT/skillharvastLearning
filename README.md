@@ -78,10 +78,18 @@ PowerQuery
 
 ```
 PowerQuery
-=QUERY(A1:H44,"SELECT A,H WHERE (A='Central' OR A='East') AND F='2014'",1)
+=QUERY(A1:H44,"SELECT A,H WHERE (C='Pencil' OR C= 'Binder') AND F=2014",1)
 ```
 ```
 PowerQuery
-   =QUERY(A1:H44,"SELECT E,H WHERE (E='Aug' OR E='Sep') AND F='2014'",1)
+  =QUERY(A1:H44,"SELECT E,H WHERE (E='Aug' OR E='Sep') AND F=2014",1) 
+```
+```
+PowerQuery
+=QUERY(A1:H44,"SELECT A,B,C,F WHERE C LIKE 'Pen%'",1)
+```
+```
+PowerQuery
+=QUERY(A1:H44,"SELECT A,B,C,H,F WHERE C LIKE '%sk'",1)
 ```
 
