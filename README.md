@@ -66,7 +66,9 @@ Here, we use skillharvest_stationary_supplies.csv to demonstrate the use case of
 PowerQuery
 =QUERY(A1:H44,"SELECT B,C WHERE C='Pen' OR C='Binder'",1)
 ```
-
+#   <div align="center">
+    <img src="BELLO/Dataanalysis1.PNG">
+    </div>
 ```
 PowerQuery
 =QUERY(A1:H44, "SELECT C,H WHERE (C='Binder' OR C='Pencil') AND F='2015'",1)
