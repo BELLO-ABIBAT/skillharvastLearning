@@ -119,6 +119,8 @@ PowerQuery
    </div>
 
 #   4.0   INTRODUCTION TO POWERBI
+###   INTRODUCTION
+PowerBi is a data visualisation and business intelligent tool that converts data from different data sources to inter active dashboard and Bi reports. it is a collection of software services, appand connectors that work together to turn your unrelated source of data to coherent, visually immersivenand interactive insights.
 
 
 
