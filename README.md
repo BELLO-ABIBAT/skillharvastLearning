@@ -151,7 +151,9 @@ There are many business intelligent tools such as tableau, powerBi and SSRS amon
 |Features|Tableau|PowerBi|
 |-|-|-|
 |Data visualization|Tableau provide strong data visualization and is one of the main visualization tools in the market|powerBi provide a strong backend data manipulation feature with access to simple visualizations|
-
+|Data Source|Tableau covers a vast range of data source to connect with for data visualization|PowerBi is one of the data source available in tableau|
+|Size of dataset|Tableau can connect to much larger set as compared to powerBi|powerBi has a limit of 1gb data in free version|
+|Costing|Tableau is expensive compared to powerbi but still under budget for small and medium enterprises|powerbi provide free version of 1GB with limitation dataset.it is also a cheaper solution compared to any other bi tools.|
 
 
 
