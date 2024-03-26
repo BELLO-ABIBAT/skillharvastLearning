@@ -1,5 +1,3 @@
-# skillharvastLearning
-
 #  <p align="center"/>SKILL HARVEST DATA ANALYSIS BOOTCAMP</p>
 
 
@@ -121,5 +119,6 @@ PowerQuery
    </div>
 
 #   4.0   INTRODUCTION TO POWERBI
+
 
 
