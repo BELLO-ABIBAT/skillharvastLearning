@@ -127,7 +127,13 @@ PowerBi suites provides multiple software connector and services such as
 - PowerBi desktop
 - PowerBi services- This is based on SMS.
 - PowerBi mobile apps- This is available for different platforms.
-Generally, it is used by business users to consumers data and build business intelligent reports. 
+Generally, this set of service is used by business users to consume data and build business intelligent reports.
+
+##   COMPONENTS OF POWEBI
+-   PowerBi desktop- This is used to create reports and data visualization on the dataset.
+-   PoweBi gateway- it is used to keep data by connecting to on-premises data source without the need to move the data it allows you to query large datasets and benefit from the existing investments.
+-   PowerBi mobile apps- Using powerBi mobile apps, you can stay connected to data from anywhere. powerBi apps are available for windows,ios, and android platform.
+-   PowerBi services- this is a cloud service and is used to publish powerBi reports and data visualization.
 
 
 
