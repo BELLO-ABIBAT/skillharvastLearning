@@ -148,6 +148,10 @@ PowerBi supports large range of data sources. you can click on Get data and ti w
 ##   POWERBI COMPARISON WITH OTHER BI TOOLS
 There are many business intelligent tools such as tableau, powerBi and SSRS among others but a major competitive value as a result of market evaluation exist between powerBi and tableau and some of the argument are highlighted below.
 
+|Features|Tableau|PowerBi|
+|-|-|-|
+|Data visualization|Tableau provide strong data visualization and is one of the main visualization tools in the market|powerBi provide a strong backend data manipulation feature with access to simple visualizations|
+
 
 
 
