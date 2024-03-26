@@ -129,11 +129,22 @@ PowerBi suites provides multiple software connector and services such as
 - PowerBi mobile apps- This is available for different platforms.
 Generally, this set of service is used by business users to consume data and build business intelligent reports.
 
-##   COMPONENTS OF POWEBI
+##   COMPONENTS OF POWERBI
 -   PowerBi desktop- This is used to create reports and data visualization on the dataset.
 -   PoweBi gateway- it is used to keep data by connecting to on-premises data source without the need to move the data it allows you to query large datasets and benefit from the existing investments.
 -   PowerBi mobile apps- Using powerBi mobile apps, you can stay connected to data from anywhere. powerBi apps are available for windows,ios, and android platform.
 -   PowerBi services- this is a cloud service and is used to publish powerBi reports and data visualization.
+##   SUPPORTED DATA SOURCES
+PowerBi supports large range of data sources. you can click on Get data and ti will show you all the available data cconnections. The following are the available data source in powerBi
+
+-   Flat Files
+-   SQL database
+-   OData feed
+-   Blank query
+-   Azure cloud platform
+-   Online services
+-   Blank Query
+-   other data sources such as Hadoop, exchange or active directory.  
 
 
 
