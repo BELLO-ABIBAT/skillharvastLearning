@@ -144,7 +144,11 @@ PowerBi supports large range of data sources. you can click on Get data and ti w
 -   Azure cloud platform
 -   Online services
 -   Blank Query
--   other data sources such as Hadoop, exchange or active directory.  
+-   other data sources such as Hadoop, exchange or active directory.
+##   POWERBI COMPARISON WITH OTHER BI TOOLS
+There are many business intelligent tools such as tableau, powerBi and SSRS among others but a major competitive value as a result of market evaluation exist between powerBi and tableau and some of the argument are highlighted below.
+
+
 
 
 
