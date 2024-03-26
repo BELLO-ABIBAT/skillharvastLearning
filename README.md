@@ -14,10 +14,10 @@ Spreadsheets are powerful tools used for organizing,analysis, and presenting dat
 
 They play a crucial role in various aspect of business, education, and personal organization. Hence understanding their features and capabilities can significantly enhance productivity and decision-making processes.
 
-#####  -  Major types: Microsoft & Google sheets
-#####  -  Key Features: organization, calculation, Data analysis, visualization and collaboration.
-#####  -  Common uses: financial management,data tracking, Analysis & reporting, and Decision making.
-#####  -  Differences
+-   Major types: Microsoft & Google sheets
+-   Key Features: organization, calculation, Data analysis, visualization and collaboration.
+-   Common uses: financial management,data tracking, Analysis & reporting, and Decision making.
+-   Differences
 
 |Feature|Microsoft Excel|Google sheet|
 |-|-|-|
@@ -121,6 +121,13 @@ PowerQuery
 #   4.0   INTRODUCTION TO POWERBI
 ###   INTRODUCTION
 PowerBi is a data visualisation and business intelligent tool that converts data from different data sources to inter active dashboard and Bi reports. it is a collection of software services, appand connectors that work together to turn your unrelated source of data to coherent, visually immersivenand interactive insights.
+
+PowerBi suites provides multiple software connector and services such as
+
+- PowerBi desktop
+- PowerBi services- This is based on SMS.
+- PowerBi mobile apps- This is available for different platforms.
+Generally, it is used by business users to consumers data and build business intelligent reports. 
 
 
 
